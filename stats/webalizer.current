@@ -1,0 +1,2985 @@
+# Webalizer V2.23-08 Incremental Data - 02/08/2018 00:12:38
+2018 2 8 0 12 38
+13696 12135 484 332 116 259 212679391 1748 477 0
+1 133 1629 1 8
+1764 1573 31742638 70 281 55
+2434 1920 37844807 103 313 93
+611 554 7094993 62 90 47
+1450 1248 26593531 80 228 61
+3675 3454 41566361 82 296 69
+1771 1597 31745738 79 222 65
+1858 1689 34531757 97 282 86
+133 100 1559566 1 36 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+344 290 6232101 74
+95 53 710402 17
+81 74 1153921 29
+82 78 751878 8
+84 79 831960 15
+108 92 1395679 27
+217 193 4170613 35
+468 433 6536248 43
+314 252 3658258 58
+966 899 17844955 116
+585 542 8296252 85
+828 777 17175562 96
+957 865 15360256 162
+509 407 9354109 45
+589 556 11373351 65
+841 787 17250680 79
+514 471 8906394 76
+504 462 9157861 57
+707 640 14813224 94
+1090 924 18218070 146
+661 391 5426208 41
+802 652 16262520 156
+480 412 9090612 86
+1870 1806 8708277 138
+0
+0
+0
+12135
+0
+0
+0
+0
+0
+0
+0
+127
+24
+0
+301
+0
+0
+0
+5
+0
+14
+1008
+1
+27
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+52
+0
+0
+0
+0
+0
+# -urls- 
+/webmail/rainloop/v/1.9.4.402/static/css/fonts/rainloop.woff
+0 1 0 13923 0 0
+/wp-content/plugins/wp-google-maps/images/marker.png
+0 8 0 2095 0 0
+/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js
+0 181 0 2950491 0 0
+/wp-content/uploads/bfi_thumb/KARTA-PODARUNKOWA1-330p9hpnwkdevpm7diomww.jpg
+0 16 0 434458 0 0
+/wp-content/plugins/
+0 1 0 258 1 0
+/wp-content/plugins/maintenance/load/style.css
+0 6 0 18144 0 0
+/wp-content/plugins/wp-google-maps/base/assets/feature2.jpg
+0 1 0 61231 0 0
+/wp-admin/options-permalink.php
+0 2 0 18304 0 0
+/wp-content/uploads/bfi_thumb/sadeczyzna2-330pawq5jcrv7eo5r7quio.jpg
+0 16 0 1697892 0 0
+/wp-content/plugins/contact-form-7/license.txt
+0 2 0 1638 0 0
+/wp-content/themes/artmed/css/font-awesome.css
+0 359 0 2322734 0 0
+/webmail/rainloop/v/1.9.4.402/static/ckeditor/ckeditor.js
+0 1 0 149395 0 0
+/phpmyadmin/themes/pmahomme/css/printview.css
+0 2 0 2774 0 0
+/wp-content/plugins/wp-google-maps/base/assets/feature3.jpg
+0 1 0 47672 0 0
+/wp-content/uploads/2016/04/LaurPB2.jpg
+0 1 0 510548 0 0
+/wp-content/themes/artmed/fonts/fontawesome-webfont.eot
+0 2 0 122258 0 0
+/wp-content/themes/artmed/framework/rc/assets/img/none.png
+0 1 0 18145 0 0
+/phpmyadmin/version_check.php
+0 3 0 2214 0 0
+/wp-content/plugins/wp-google-maps/css/font-awesome.min.css
+0 12 0 6238 0 0
+/wp-content/uploads/2017/01/laser-300x300.jpg
+0 1 0 20425 0 0
+/nasi-spacjalisci/
+0 145 0 777554 7 1
+/wp-content/themes/artmed/framework/rc/assets/img/align-center.png
+0 1 0 18852 0 0
+/wp-content/themes/artmed/css/layout.css
+0 188 0 231599 0 0
+/wp-content/themes/artmed/framework/rc/assets/js/vendor/select2/select2.min.js
+0 1 0 17287 0 0
+/wp-content/plugins/cws-pb/cws-pb.css
+0 1 0 4410 0 0
+/roundcube/plugins/jqueryui/themes/larry/jquery-ui.css
+0 1 0 9994 0 0
+/wp-content/plugins/wp-google-maps/images/premium.png
+0 8 0 3489 0 0
+/phpmyadmin/tbl_change.php
+0 1 0 7950 0 0
+/wp-includes/js/tinymce/langs/wp-langs-en.js
+0 1 0 5825 0 0
+/wp-admin/update-core.php
+0 5 0 52147 0 0
+/wp-content/plugins/wp-google-maps/css/data_table.css
+0 8 0 3614 0 0
+/poczta/rainloop/v/1.9.4.402/static/css/app.min.css
+0 1 0 34243 0 0
+/masaz-boa/
+0 12 0 129875 4 2
+/wp-content/themes/artmed/core/css/mb-post-styles.css
+0 1 0 2971 0 0
+/nasi-spacjalisci/feed/
+0 1 0 1260 0 0
+/poczta/rainloop/v/1.9.4.402/static/js/min/libs.js
+0 1 0 155714 0 0
+/wp-content/themes/artmed/framework/rc/assets/js/fields.js
+0 1 0 14629 0 0
+/staff/dr-marta-banach/
+0 22 0 242487 5 1
+/phpmyadmin/
+0 7 0 51867 0 0
+/wp-content/themes/artmed/js/isotope.pkgd.min.js
+0 181 0 1956141 0 0
+/wp-includes/js/thickbox/thickbox.js
+0 1 0 4374 0 0
+/wp-content/uploads/2016/04/TRU4.jpg
+0 3 0 1382196 0 0
+/wp-content/plugins/wp-google-maps//images/theme_1.jpg
+0 8 0 74313 0 0
+/wp-content/uploads/2017/01/Kinescoping-300x300.jpg
+0 3 0 56082 0 0
+/wp-includes/js/wp-embed.js
+0 1 0 1603 0 0
+/webmail/
+0 7 0 44842 0 0
+/wp-content/plugins/wp-google-maps//images/theme_5.jpg
+0 8 0 92761 0 0
+/poczta/rainloop/v/1.9.4.402/themes/Squares/images/background.jpg
+0 1 0 33645 0 0
+/wp-content/plugins/revslider/admin/assets/css/global.css
+0 1 0 2446 0 0
+/wp-content/plugins/wp-google-maps/images/WP-google-maps-logo-1-B-transparent.png
+0 1 0 15601 0 0
+/wp-content/themes/artmed/framework/rc/assets/css/vendor/jquery-ui-bootstrap/images/ui-bg_glass_75_ffffff_1x400.png
+0 1 0 412 0 0
+/phpmyadmin/themes/pmahomme/img/b_calendar.png
+0 1 0 927 0 0
+/wp-includes/js/thickbox/thickbox.css
+0 1 0 1321 0 0
+/wp-includes/js/shortcode.min.js
+0 1 0 1504 0 0
+/phpmyadmin/server_sql.php
+0 1 0 4696 0 0
+/poczta/
+0 5 0 47129 1 0
+/roundcube/
+0 1 0 1888 0 0
+/wp-admin/load-scripts.php
+0 17 0 1422154 0 0
+/wp-admin/plugin-install.php
+0 3 0 48189 0 0
+/roundcube/program/js/jquery.min.js
+0 1 0 31500 0 0
+/wp-content/uploads/2016/04/ESWT3.jpg
+0 2 0 438256 0 0
+/wp-admin/images/spinner.gif
+0 1 0 4468 0 0
+/image-post/feed/
+0 1 0 1326 0 0
+/wp-content/themes/artmed/core/cws_tmce.js
+0 1 0 1640 0 0
+/wp-content/themes/artmed/framework/rc/assets/img/pinterest_3_columns.png
+0 1 0 18510 0 0
+/wp-content/plugins/cws-pb/scodes/default.png
+0 1 0 1651 0 0
+/wp-content/plugins/wp-google-maps/js/media.js
+0 11 0 2774 0 0
+/kontakt/feed/
+0 1 0 1241 0 0
+/wp-admin/plugins.php
+0 3 0 41252 0 0
+/wp-content/plugins/wp-google-maps/js/admin-basic.js
+0 11 0 2619 0 0
+/category/blog/feed/
+0 2 0 3855 2 1
+/phpmyadmin/themes/pmahomme/jquery/jquery-ui.css
+0 2 0 17698 0 0
+/sprzet/
+0 3 0 25815 2 0
+/wp-json/
+0 1 0 5155 0 0
+/wp-content/uploads/2016/06/Logo_armed_strona-1.png
+0 1 0 17778 0 0
+/wp-content/plugins/wp-google-maps/images/map_app_small.png
+0 12 0 2816 0 0
+/wp-includes/js/tinymce/wp-tinymce.php
+0 1 0 183495 0 0
+/wp-admin/css/colors/blue/colors.min.css
+0 1 0 2415 0 0
+/roundcube/program/js/common.min.js
+0 1 0 5611 0 0
+/wp-admin/post.php
+0 8 0 349886 0 0
+/wp-content/uploads/2017/02/vman3.jpg
+0 121 0 87163844 0 0
+/wp-content/uploads/2017/01/alter-300x300.jpg
+0 2 0 38181 0 0
+/wp-includes/js/underscore.min.js
+0 1 0 6199 0 0
+/phpmyadmin/themes/pmahomme/img/logo_left.png
+0 2 0 6038 0 0
+/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff
+0 114 0 897555 0 0
+/wp-content/themes/artmed/img/404_mask.png
+0 29 0 10599900 0 0
+/wp-includes/wlwmanifest.xml
+0 5 0 5206 0 0
+/wp-includes/js/tinymce/skins/wordpress/wp-content.css
+0 1 0 2864 0 0
+/wp-includes/css/editor.min.css
+0 1 0 6224 0 0
+/phpmyadmin/js/codemirror/addon/lint/lint.css
+0 2 0 3314 0 0
+/wp-admin/css/colors/light/colors.min.css
+0 1 0 2446 0 0
+/phpmyadmin/themes/pmahomme/img/arrow_ltr.png
+0 1 0 433 0 0
+/wp-content/plugins/wp-google-maps/images/sort_desc.png
+0 8 0 1436 0 0
+/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.slideanims.min.js
+0 119 0 833367 0 0
+/wp-content/plugins/cws-pb/scodes/cws_button.png
+0 1 0 1804 0 0
+/wp-content/uploads/2016/04/TRU2.jpg
+0 1 0 218889 0 0
+/roundcube/program/js/app.min.js
+0 1 0 46086 0 0
+/wp-admin/
+0 7 0 95324 1 0
+/author/mjez/
+0 1 0 8991 0 0
+/phpmyadmin/js/get_image.js.php
+0 2 0 4850 0 0
+/post-21/
+0 5 0 69232 1 0
+/wp-content/uploads/2016/04/TRU3.jpg
+0 2 0 693582 0 0
+/wp-content/plugins/wp-google-maps/base/assets/feature1.jpg
+0 1 0 59598 0 0
+/wp-content/plugins/cws-pb/yui/12.css
+0 1 0 2533 0 0
+/webmail/rainloop/v/1.9.4.402/static/favicon.png
+0 1 0 1137 0 0
+/wp-content/themes/artmed/js/owl.carousel.js
+0 180 0 1753255 0 0
+/wp-admin/load-styles.php
+0 8 0 570084 0 0
+/wp-content/uploads/2014/04/mediraty.jpg
+0 7 0 235765 0 0
+/phpmyadmin/themes/pmahomme/img/col_drop.png
+0 1 0 416 0 0
+/webmail/rainloop/v/1.9.4.402/static/js/min/libs.js
+0 1 0 155724 0 0
+/wp-content/themes/artmed/framework/rc/assets/img/background.png
+0 1 0 2909 0 0
+/wp-content/uploads/2014/04/KARTA-PODARUNKOWA1.jpg
+0 8 0 544901 0 0
+/phpmyadmin/navigation.php
+0 7 0 22024 0 0
+/wp-content/plugins/revslider/public/assets/assets/loader.gif
+0 97 0 276574 0 0
+/wp-content/themes/artmed/framework/rc/assets/img/small.png
+0 1 0 18949 0 0
+/wp-content/uploads/bfi_thumb/KARTA-PODARUNKOWA1-330p9hpmlo0uesvvh0etc0.jpg
+0 160 0 363745 0 0
+/wp-content/themes/artmed/framework/rc/assets/css/vendor/elusive-icons/font/Elusive-Icons.woff
+0 1 0 37320 0 0
+/wp-content/plugins/wp-google-maps/js/wpgmaps_tabs.js
+0 9 0 2289 0 0
+/wp-content/themes/artmed/framework/rc/assets/js/redux.js
+0 1 0 7256 0 0
+/wp-includes/js/mediaelement/mediaelement-and-player.min.js
+0 1 0 23301 0 0
+/wp-content/plugins/wp-google-maps//images/theme_8.jpg
+0 8 0 9621 0 0
+/wp-includes/js/zxcvbn.min.js
+0 1 0 330772 0 0
+/wp-content/themes/artmed/js/modernizr.js
+0 177 0 1106949 0 0
+/roundcube/skins/larry/images/favicon.ico
+0 1 0 13490 0 0
+/favicon.ico
+0 564 0 157599 0 0
+/wp-content/uploads/bfi_thumb/mediraty-330pblq9oohrs5hbi39ibk@2x.jpg
+0 168 0 531411 0 0
+/wp-content/plugins/wp-google-maps//images/theme_3.jpg
+0 8 0 75561 0 0
+/wp-content/uploads/2016/04/ALTERG1-1024x1024.jpg
+0 15 0 1768594 0 0
+/wp-content/uploads/2016/04/SURO1.jpg
+0 2 0 235242 0 0
+/wp-admin/css/colors/coffee/colors.min.css
+0 2 0 4788 0 0
+/wp-includes/js/imgareaselect/imgareaselect.css
+0 1 0 654 0 0
+/webmail/rainloop/v/1.9.4.402/static/css/app.min.css
+0 1 0 34253 0 0
+/wp-content/uploads/2014/07/osocze_bogatopłytkowe-300x300.jpg
+0 117 0 1401393 0 0
+/wp-includes/css/admin-bar.min.css
+0 1 0 4259 0 0
+/wp-content/themes/artmed/core/js/post-metaboxes.js
+0 1 0 1929 0 0
+/phpmyadmin/server_engines.php
+0 1 0 2457 0 0
+/staff/dr-anna-bochynska/
+0 21 0 208495 7 2
+/wp-includes/js/media-audiovideo.min.js
+0 1 0 3890 0 0
+/wp-admin/admin.php
+0 27 0 799752 0 0
+/staff/dr-anna-budzynska/
+0 29 0 264279 8 0
+/wp-content/themes/artmed/framework/rc/assets/img/left.png
+0 1 0 18189 0 0
+/wp-content/themes/artmed/framework/rc//assets/js/vendor/select2/select2.js
+0 1 0 28208 0 0
+/kontakt/
+0 98 0 1305984 31 8
+/staff/
+0 3 0 46647 2 1
+/wp-includes/js/tinymce/skins/lightgray/skin.min.css
+0 1 0 7957 0 0
+/wp-json/oembed/1.0/embed
+0 2 0 3465 0 0
+/wp-content/uploads/bfi_thumb/mediraty-330pblqazkuc927neljbwg.jpg
+0 16 0 1024986 0 0
+/wp-content/plugins/wp-flexible-map/js/flexible-map.min.js
+0 13 0 47938 0 0
+/wp-content/plugins/wp-google-maps/images/custom_marker_icons.jpg
+0 8 0 21750 0 0
+/roundcube/skins/larry/styles.min.css
+0 1 0 9714 0 0
+/wp-content/themes/artmed/js/jquery.fancybox.js
+0 181 0 2762518 0 0
+/wp-content/themes/artmed/framework/rc/assets/img/default.png
+0 1 0 18630 0 0
+/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.navigation.min.js
+0 119 0 872653 0 0
+/wp-content/plugins/cws-pb/scodes/ourteam.png
+0 1 0 2088 0 0
+/wp-admin/update.php
+0 1 0 5143 0 0
+/wp-content/plugins/wp-google-maps//images/theme_6.jpg
+0 8 0 3772 0 0
+/wp-content/themes/artmed/style.css
+0 185 0 109527 0 0
+/category/blog/
+0 4 0 62774 2 0
+/post/
+0 14 0 135156 3 1
+/wp-admin/edit.php
+0 11 0 190206 0 0
+/tlumaczenia/
+0 25 0 257038 2 0
+/wp-content/uploads/2014/05/sadeczyzna1.jpg
+0 1 0 52627 0 0
+/poczta/rainloop/v/1.9.4.402/static/ckeditor/ckeditor.js
+0 1 0 149358 0 0
+/wp-content/uploads/2016/04/ALTERG3.jpg
+0 2 0 1134628 0 0
+/alter-g/
+0 11 0 145706 3 2
+/wp-includes/js/media-editor.min.js
+0 1 0 4010 0 0
+/webmail/rainloop/v/1.9.4.402/static/js/min/app.js
+0 1 0 103290 0 0
+/wp-includes/css/dashicons.min.css
+0 2 0 57952 0 0
+/wp-includes/js/mediaelement/wp-mediaelement.min.css
+0 1 0 1630 0 0
+/phpmyadmin/themes/pmahomme/img/col_pointer.png
+0 1 0 407 0 0
+/wp-content/themes/artmed/fonts/fontawesome-webfont.ttf
+0 5 0 422485 0 0
+/wp-content/plugins/wp-google-maps/images/sort_asc.png
+0 2 0 604 0 0
+/phpmyadmin/js/codemirror/lib/codemirror.css
+0 2 0 5684 0 0
+/wp-content/plugins/revslider/admin/assets/js/tinymce-shortcode-script.js
+0 2 0 5250 0 0
+/wp-content/themes/artmed/core/js/custom-admin.js
+0 1 0 3192 0 0
+/wp-content/plugins/wp-google-maps/images/sort_both.png
+0 8 0 1479 0 0
+/wp-includes/js/comment-reply.min.js
+0 183 0 179031 0 0
+/phpmyadmin/js/codemirror/addon/hint/show-hint.css
+0 2 0 1426 0 0
+/wp-content/themes/artmed/fonts/fontawesome-webfont.svg
+0 1 0 313771 0 0
+/wp-includes/js/jquery/jquery-migrate.min.js
+0 179 0 810463 0 0
+/wp-content/plugins/wp-google-maps/js/wpgmaps.js
+0 43 0 258760 0 0
+/post-21/feed/
+0 1 0 1312 0 0
+/wp-content/uploads/2016/04/TRU1-1024x1024.jpg
+0 16 0 882696 0 0
+/wp-content/uploads/bfi_thumb/sadeczyzna1-330paq2exuivwu3ycay3gg.jpg
+0 16 0 1612027 0 0
+/wp-content/themes/artmed/framework/rc/assets/img/pinterest_4_columns.png
+0 1 0 18627 0 0
+/wp-content/themes/artmed/framework/rc/assets/img/medium.png
+0 1 0 18893 0 0
+/wp-content/plugins/cws-pb/yui/yui-min.js
+0 1 0 105224 0 0
+/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.video.min.js
+0 119 0 741521 0 0
+/phpmyadmin/server_status.php
+0 1 0 2582 0 0
+/wp-content/uploads/bfi_thumb/KARTA-PODARUNKOWA1-330p9hpmlo0uesvvh0etc0@2x.jpg
+0 164 0 356058 0 0
+/ginekologia-seksuologia/
+0 24 0 238334 2 0
+/wp-content/plugins/cws-pb/images/mask.png
+0 1 0 17996 0 0
+/wp-content/uploads/2017/01/BOA-300x300.jpg
+0 8 0 89606 0 0
+/medycyna-estetyczna-i-regeneracyjna/
+0 27 0 265114 0 1
+/wp-includes/js/wp-util.min.js
+0 1 0 951 0 0
+/category/uncategorized/
+0 2 0 17981 0 0
+/wp-content/plugins/wp-google-maps/fonts/fontawesome-webfont.woff
+0 9 0 46072 0 0
+/phpmyadmin/js/get_scripts.js.php
+0 13 0 836254 0 0
+/wp-content/themes/artmed/js/retina_1.3.0.js
+0 178 0 406376 0 0
+/wp-content/uploads/bfi_thumb/Logo_armed_strona-1-32se9md2b1to7ut7o8u8sg.png
+0 163 0 2199767 0 0
+/wp-includes/js/media-models.min.js
+0 1 0 4682 0 0
+/wp-login.php
+0 1728 0 6493339 0 0
+/wp-content/plugins/wp-google-maps//images/theme_0.jpg
+0 8 0 78781 0 0
+/wp-content/plugins/wp-google-maps//images/theme_4.jpg
+0 8 0 63539 0 0
+/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+0 109 0 126054 0 0
+/wp-content/plugins/contact-form-7/includes/css/styles.css
+0 186 0 191078 0 0
+/wp-content/themes/artmed/js/imagesloaded.pkgd.min.js
+0 178 0 499598 0 0
+/wp-content/themes/artmed/fonts/fontawesome-webfont.woff
+0 9 0 619047 0 0
+/wp-content/themes/artmed/css/jquery.fancybox.css
+0 188 0 347910 0 0
+/wp-includes/js/backbone.min.js
+0 1 0 7913 0 0
+/wp-content/plugins/wp-flexible-map/css/styles.css
+0 210 0 205316 0 0
+/wp-includes/js/imgareaselect/jquery.imgareaselect.min.js
+0 1 0 4150 0 0
+/wp-admin/css/colors/ocean/colors.min.css
+0 2 0 4811 0 0
+/aktualnosci/feed/
+0 1 0 1292 0 0
+/wp-content/uploads/2016/04/LaurPB1.jpg
+0 1 0 2504577 0 0
+/wp-content/uploads/2016/04/ALTERG2.jpg
+0 3 0 577813 0 0
+/wp-content/uploads/bfi_thumb/mediraty-330pblq9oohrs5hbi39ibk.jpg
+0 157 0 428461 0 0
+/wp-includes/js/jquery/jquery.js
+0 181 0 6413148 0 0
+/wp-content/themes/artmed/fonts/fontawesome-webfont.woff2
+0 156 0 8843253 0 0
+/wp-content/themes/artmed/framework/rc/assets/img/pinterest_2_columns.png
+0 1 0 18452 0 0
+/wp-content/plugins/wp-google-maps/css/wpgmza_style.css
+0 65 0 121762 0 0
+/wp-includes/js/wp-embed.min.js
+0 181 0 206535 0 0
+/kinesiotaping/
+0 11 0 117166 2 1
+/wp-content/plugins/contact-form-7/includes/js/scripts.js
+0 181 0 761920 0 0
+/wp-includes/js/wp-emoji-release.min.js
+0 155 0 735766 0 0
+/wp-content/themes/artmed/core/js/portfolio.js
+0 133 0 273134 0 0
+/wp-content/themes/artmed/framework/rc/assets/css/vendor/jquery-ui-bootstrap/jquery-ui-1.10.0.custom.css
+0 1 0 9921 0 0
+/wp-content/plugins/wp-google-maps//images/theme_7.jpg
+0 8 0 5673 0 0
+/wp-content/plugins/wp-google-maps/base/assets/marker-listing-carousel.jpg
+0 8 0 180961 0 0
+/wp-includes/js/wp-backbone.min.js
+0 1 0 1509 0 0
+/wp-content/plugins/revslider/public/assets/css/settings.css
+0 189 0 1682434 0 0
+/wp-includes/js/jquery/ui/datepicker.min.js
+0 1 0 11380 0 0
+/o-nas/feed/
+0 2 0 2274 1 1
+/wp-content/uploads/2016/04/RAPAEL-1024x1024.jpg
+0 16 0 1410720 0 0
+/o-nas/
+0 93 0 532542 4 2
+/phpmyadmin/server_databases.php
+0 1 0 3163 0 0
+/wp-includes/js/tinymce/skins/lightgray/content.min.css
+0 1 0 1539 0 0
+/phpmyadmin/js/messages.php
+0 2 0 18554 0 0
+/wp-content/plugins/cws-pb/pbaj.php
+0 21 0 18978 0 0
+/wp-content/themes/artmed/framework/rc/assets/img/right.png
+0 1 0 18283 0 0
+/wp-includes/js/mediaelement/wp-mediaelement.min.js
+0 1 0 798 0 0
+/poczta/rainloop/v/1.9.4.402/static/js/min/boot.js
+0 1 0 10017 0 0
+/phpmyadmin/favicon.ico
+0 2 0 19338 0 0
+/category/image-posts/
+0 2 0 17117 1 0
+/wp-includes/js/thickbox/loadingAnimation.gif
+0 1 0 15545 0 0
+/xmlrpc.php
+0 184 0 523410 0 0
+/phpmyadmin/sql.php
+0 2 0 16122 0 0
+/staff/dr-marek-worek/
+0 39 0 351923 22 2
+/phpmyadmin/themes/pmahomme/img/ajax_clock_small.gif
+0 2 0 4232 0 0
+/wp-content/themes/artmed/framework/rc/assets/img/both.png
+0 1 0 18162 0 0
+/image-post/
+0 11 0 118025 2 1
+/wp-content/plugins/wp-google-maps/js/jquery.dataTables.min.js
+0 8 0 29495 0 0
+/wp-content/themes/artmed/core/popup.js
+0 1 0 5456 0 0
+/neurologia-emg/
+0 14 0 116576 1 1
+/wp-content/plugins/cws-pb/pb.js
+0 1 0 26548 0 0
+/rehabilitacja-fizjoterapia/
+0 30 0 411443 8 0
+/urologia-nietrzymanie-moczu/
+0 13 0 107361 4 0
+/laserfotona/
+0 9 0 100308 1 1
+/wp-content/uploads/2016/04/ESWT1.jpg
+0 2 0 318893 0 0
+/wp-admin/images/wordpress-logo.svg
+0 2 0 2370 0 0
+/phpmyadmin/prefs_manage.php
+0 1 0 3313 0 0
+/wp-content/themes/artmed/core/images/selected_mark.png
+0 1 0 15962 0 0
+/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js
+0 178 0 1147627 0 0
+/aktualnosci/
+0 29 0 321315 4 2
+/wp-content/plugins/wp-google-maps/base/assets/feature4.jpg
+0 1 0 65910 0 0
+/laserowa-chirurgia-naczyniowa/
+0 14 0 135063 1 0
+/webmail/rainloop/v/1.9.4.402/themes/Squares/images/background.jpg
+0 1 0 33682 0 0
+/poczta/rainloop/v/1.9.4.402/static/js/min/app.js
+0 1 0 103253 0 0
+/phpmyadmin/phpmyadmin.css.php
+0 4 0 82978 0 0
+/roundcube/skins/larry/ui.min.js
+0 1 0 9205 0 0
+/wp-content/themes/artmed/framework/rc/assets/js/vendor/select2/select2.css
+0 1 0 3373 0 0
+/
+0 634 0 6478093 287 63
+/glowna/feed/
+0 4 0 4282 1 1
+/wp-content/plugins/wp-google-maps/images/get_directions.jpg
+0 8 0 63671 0 0
+/wp-content/themes/artmed/framework/rc/assets/img/align-left.png
+0 1 0 18820 0 0
+/wp-content/themes/artmed/js/scripts.js
+0 180 0 1228663 0 0
+/wp-content/uploads/2016/07/nextia_stronywww-01-1-e1469783268130.png
+0 156 0 355162 0 0
+/wp-content/uploads/bfi_thumb/sadeczyzna1-330paq2dmy6bfxdmfso9vk@2x.jpg
+0 166 0 593461 0 0
+/wp-content/uploads/2014/04/KARTA-PODARUNKOWA1-768x551.jpg
+0 8 0 204072 0 0
+/wp-content/themes/artmed/framework/rc/assets/img/large.png
+0 1 0 18763 0 0
+/wp-content/themes/artmed/framework/rc/assets/css/vendor/elusive-icons/elusive-webfont.css
+0 1 0 2877 0 0
+/wp-admin/css/colors/midnight/colors.min.css
+0 1 0 2394 0 0
+/wp-admin/images/spinner-2x.gif
+0 1 0 8842 0 0
+/wp-content/plugins/wp-google-maps/base/assets/marker-listing-advanced.jpg
+0 9 0 320737 0 0
+/comments/feed/
+0 5 0 5216 1 0
+/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.layeranimation.min.js
+0 119 0 1100776 0 0
+/wp-content/themes/artmed/css/main.css
+0 191 0 3886807 0 0
+/wp-content/plugins/wp-google-maps/js/jscolor.js
+0 8 0 8920 0 0
+/wp-includes/js/admin-bar.min.js
+0 1 0 2847 0 0
+/wp-content/plugins/wp-google-maps/images/custom_markers.jpg
+0 8 0 47851 0 0
+/phpmyadmin/themes/dot.gif
+0 2 0 694 0 0
+/wp-content/plugins/wp-google-maps/base/assets/marker-listing-basic.jpg
+0 8 0 167300 0 0
+/phpmyadmin/themes/pmahomme/img/s_collapseall.png
+0 2 0 896 0 0
+/phpmyadmin/themes/pmahomme/img/left_nav_bg.png
+0 2 0 902 0 0
+/sprzet/14/
+0 1 0 8624 0 1
+/wp-includes/js/jquery/ui/accordion.min.js
+0 1 0 3084 0 0
+/wp-content/plugins/wp-google-maps/js/wpgmaps-admin-core.js
+0 8 0 9167 0 0
+/wp-includes/js/mediaelement/mediaelementplayer.min.css
+0 1 0 3603 0 0
+/post/feed/
+0 1 0 1308 0 0
+/wp-content/uploads/bfi_thumb/sadeczyzna1-330paq2dmy6bfxdmfso9vk.jpg
+0 161 0 416988 0 0
+/wp-content/themes/artmed/framework/rc/assets/img/cws.png
+0 1 0 4835 0 0
+/robots.txt
+0 92 0 40934 0 0
+/wp-admin/profile.php
+0 5 0 58535 0 0
+/wp-content/themes/artmed/framework/rc/assets/img/align-right.png
+0 1 0 18825 0 0
+/phpmyadmin/server_export.php
+0 1 0 12319 0 0
+/wp-content/plugins/wp-google-maps//images/theme_2.jpg
+0 8 0 65309 0 0
+/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js
+0 181 0 6868696 0 0
+/wp-content/themes/artmed/framework/rc/assets/img/pinterest.png
+0 1 0 18510 0 0
+/feed/
+0 3 0 12098 0 0
+/staff/piotr-budzynski/
+0 57 0 502143 18 4
+/wp-includes/js/plupload/wp-plupload.min.js
+0 1 0 2363 0 0
+/wp-includes/js/mce-view.min.js
+0 1 0 3975 0 0
+/wp-content/plugins/wp-google-maps/css/wp-google-maps-admin.css
+0 12 0 4035 0 0
+/wp-cron.php
+0 171 0 44118 0 0
+/wp-content/themes/artmed/framework/rc/assets/img/ajax.gif
+0 1 0 1698 0 0
+/wp-admin/css/colors/ectoplasm/colors.min.css
+0 1 0 2420 0 0
+/wp-admin/images/resize.gif
+0 1 0 374 0 0
+/wp-content/uploads/2017/05/ME1-1024x1024.jpg
+0 16 0 1535099 0 0
+/wp-content/themes/artmed/framework/rc//assets/js/vendor/select2/select2.css
+0 1 0 3373 0 0
+/wp-admin/admin-ajax.php
+0 129 0 155022 0 0
+/wp-includes/js/media-views.min.js
+0 1 0 24214 0 0
+/wp-admin/js/image-edit.min.js
+0 1 0 3714 0 0
+/webmail/rainloop/v/1.9.4.402/static/js/min/boot.js
+0 1 0 10054 0 0
+/phpmyadmin/js/whitelist.php
+0 2 0 2104 0 0
+/wp-content/uploads/2016/04/LW1.jpg
+0 2 0 72339 0 0
+/phpmyadmin/themes/pmahomme/img/s_fulltext.png
+0 1 0 508 0 0
+/phpmyadmin/themes/pmahomme/img/sprites.png
+0 2 0 30336 0 0
+/wp-admin/css/colors/sunrise/colors.min.css
+0 1 0 2423 0 0
+/wp-content/themes/artmed/framework/rc/assets/css/redux.css
+0 1 0 11403 0 0
+/phpmyadmin/tbl_replace.php
+0 1 0 8301 0 0
+/wp-content/themes/artmed/img/404_mask@2x.png
+0 8 0 139035 0 0
+/author/mmolek/
+0 1 0 8910 0 0
+# End Of Table - urls
+# -sites- (monthly)
+91.192.147.159
+0 1 1 12799 0 0
+-
+178.154.200.4
+0 4 4 29291 2 1517958325
+/
+188.146.162.99
+0 52 49 1115444 1 1517510933
+/
+195.154.168.130
+0 3 0 16302 0 0
+-
+81.219.96.226
+0 52 51 1500543 1 1517831096
+/
+198.252.45.12
+0 1 1 8522 1 1517564763
+/post/
+164.132.161.2
+0 1 1 14154 1 1517777139
+/
+91.200.12.193
+0 17 0 134757 0 0
+-
+74.115.214.132
+0 1 1 338 1 1517953110
+/
+94.254.149.67
+0 83 67 1470991 1 1517988879
+/kontakt/
+62.233.195.189
+0 33 33 294200 1 1517514332
+/staff/dr-anna-budzynska/
+79.191.54.149
+0 51 51 1209741 1 1517828114
+/medycyna-estetyczna-i-regeneracyjna/
+83.4.135.69
+0 31 31 280328 1 1517830980
+/
+77.75.78.172
+0 2 1 8426 1 1518035941
+-
+94.254.147.112
+0 51 45 337018 1 1517832367
+/kontakt/
+46.229.168.75
+0 2 2 17450 2 1517969237
+/ginekologia-seksuologia/
+66.249.66.83
+0 2 0 680 2 1517574885
+/
+66.249.69.83
+0 33 31 184707 6 1517866564
+/
+107.167.109.164
+0 50 44 1003883 1 1517478841
+/rehabilitacja-fizjoterapia/
+66.249.81.180
+0 24 20 127792 1 1517777976
+/
+40.77.167.6
+0 4 1 32058 1 1517648165
+-
+94.254.145.93
+0 40 38 307480 1 1517851030
+/kontakt/
+83.7.20.141
+0 48 47 1149292 1 1517477964
+/
+176.33.254.196
+0 1 1 8101 1 1517564799
+/laserowa-chirurgia-naczyniowa/
+103.59.176.105
+0 1 0 28274 0 0
+-
+79.185.88.244
+0 2 1 80676 1 1517584914
+/
+31.183.154.57
+0 1 1 460732 0 0
+-
+178.42.47.208
+0 39 37 302981 1 1517752019
+/staff/dr-marek-worek/
+83.12.173.131
+0 32 32 984799 1 1517923886
+/
+83.22.254.139
+0 1 1 12207 0 0
+-
+83.30.215.219
+0 32 32 984799 1 1517855203
+/
+138.201.30.66
+0 9 9 95643 1 1517780967
+/glowna/feed/
+65.55.210.65
+0 1 1 11795 0 0
+-
+79.172.252.18
+0 2 0 58066 0 0
+-
+91.237.84.168
+0 1 1 52341 1 1517911704
+/
+46.169.220.144
+0 1 1 460732 0 0
+-
+79.170.40.239
+0 2 0 58087 1 1517877766
+-
+31.0.124.54
+0 32 32 984799 1 1517946145
+/
+83.26.144.105
+0 41 39 314244 1 1517732072
+/staff/piotr-budzynski/
+202.137.155.138
+0 2 2 3663 0 0
+-
+46.229.168.78
+0 3 3 26727 2 1517969499
+/masaz-boa/
+199.30.25.116
+0 1 1 42380 0 0
+-
+217.96.85.86
+0 84 83 2169780 2 1517829294
+/
+145.239.91.37
+0 2 1 40851 1 1518031063
+/kontakt/
+18.216.56.106
+0 4 1 23043 2 1517767236
+/
+40.77.167.40
+0 4 4 38888 1 1517475021
+/image-post/
+94.254.149.113
+0 79 77 1920947 1 1517909134
+/
+109.102.111.71
+0 56 28 609721 1 1517528246
+-
+157.55.39.36
+0 21 21 183258 8 1517733902
+/
+66.249.64.85
+0 5 4 29097 2 1518039937
+/kontakt/
+200.52.88.163
+0 1 0 7958 1 1517564770
+-
+94.254.144.51
+0 83 72 2099908 2 1518009274
+/ginekologia-seksuologia/
+62.210.215.117
+0 4 2 28997 2 1517729869
+/
+89.248.174.138
+0 2 2 15848 1 1517941862
+/
+68.180.228.54
+0 2 1 713 1 1517640239
+/
+46.229.164.100
+0 1 1 431 0 0
+-
+162.210.196.130
+0 4 4 105559 2 1517731661
+/
+77.75.76.163
+0 2 1 8426 1 1517733704
+-
+37.59.178.104
+0 12 7 453494 2 1517961626
+-
+46.229.168.66
+0 2 1 11084 1 1517969451
+/kontakt/
+38.21.48.234
+0 3 3 31876 2 1517564780
+/tlumaczenia/
+77.75.77.54
+0 2 2 8919 1 1517647250
+/staff/dr-marek-worek/
+54.36.148.85
+0 1 1 14154 1 1517758092
+/
+187.19.14.247
+0 1 1 8510 1 1517564777
+/image-post/
+54.36.150.76
+0 2 2 848 0 0
+-
+199.30.24.129
+0 1 1 1925 0 0
+-
+157.52.155.109
+0 2 2 4906 2 1517564899
+/
+83.7.12.126
+0 86 67 749910 1 1517579176
+-
+46.229.168.68
+0 2 2 22459 1 1517530956
+/neurologia-emg/
+91.193.87.188
+0 5 5 133402 3 1517768163
+/
+68.180.228.98
+0 7 6 17230 2 1517640242
+/
+158.46.154.77
+0 1 1 14198 1 1517604955
+/
+195.22.127.227
+0 2 1 31450 1 1517709874
+/staff/dr-marek-worek/
+46.229.164.98
+0 2 2 862 0 0
+-
+40.77.167.182
+0 3 3 25737 1 1517694571
+/aktualnosci/
+94.23.214.68
+0 42 42 1109121 1 1518015947
+/
+160.154.136.144
+0 1 1 8819 1 1517564806
+/staff/piotr-budzynski/
+51.255.65.73
+0 1 1 14153 1 1517561268
+/
+170.238.72.36
+0 2 2 3537 0 0
+-
+188.226.137.180
+0 1 1 14198 1 1517724126
+/
+31.11.128.168
+0 90 85 1934145 2 1517914757
+/nasi-spacjalisci/
+40.77.167.130
+0 1 1 8336 1 1517548671
+/neurologia-emg/
+83.10.28.153
+0 63 58 1138055 1 1517816503
+/kontakt/
+66.240.192.138
+0 1 1 2221 1 1517762648
+/
+115.84.92.66
+0 2 2 3663 0 0
+-
+65.55.210.168
+0 1 1 49085 0 0
+-
+178.23.105.78
+0 50 49 1592807 1 1517997400
+/kontakt/
+66.249.64.17
+0 2 0 680 2 1518025537
+/
+83.3.90.229
+0 1 1 117621 0 0
+-
+188.180.123.154
+0 2 2 17971 1 1517564804
+/staff/dr-marta-banach/
+193.109.244.28
+0 33 33 831494 1 1517502297
+/staff/dr-marta-banach/
+66.249.69.99
+0 3 1 1148 2 1517865708
+/
+178.137.83.166
+0 2 2 33193 1 1517760034
+/comments/feed/
+37.47.124.212
+0 92 76 1202713 1 1518001743
+/staff/piotr-budzynski/
+51.255.71.115
+0 1 1 14154 1 1517606687
+/
+94.254.159.18
+0 1 1 14197 1 1517570479
+/
+66.249.66.84
+0 1 0 412 1 1517452653
+/
+66.249.69.85
+0 25 18 153498 6 1517865708
+/
+85.202.147.171
+0 38 38 1097294 1 1517931578
+/rehabilitacja-fizjoterapia/
+37.59.20.77
+0 1 0 28274 0 0
+-
+77.255.99.70
+0 41 39 314244 1 1518030691
+/staff/piotr-budzynski/
+78.102.242.61
+0 1 1 20425 0 0
+-
+95.160.153.107
+0 42 40 322680 1 1517931680
+/staff/dr-marek-worek/
+181.215.87.215
+0 1 1 14197 1 1517564758
+/
+46.155.16.239
+0 1 1 117621 0 0
+-
+213.77.57.55
+0 78 74 1868505 1 1517996971
+/staff/dr-marta-banach/
+115.84.92.2
+0 2 2 3663 0 0
+-
+217.147.169.236
+0 37 4 275898 1 1517535499
+-
+54.36.149.4
+0 1 1 14153 1 1517458461
+/
+157.55.39.180
+0 12 11 83376 5 1517786185
+/
+66.249.93.84
+0 1 1 295 0 0
+-
+40.77.167.93
+0 4 4 23736 0 0
+-
+69.63.188.112
+0 1 1 68135 0 0
+-
+69.58.178.56
+0 17 13 428106 1 1517872684
+/laserowa-chirurgia-naczyniowa/
+66.249.69.77
+0 6 3 43041 3 1517710397
+/
+31.0.39.28
+0 66 59 1150828 2 1517494534
+/ginekologia-seksuologia/
+65.55.210.78
+0 3 3 18304 1 1517730775
+/staff/dr-anna-budzynska/
+89.64.43.224
+0 1 1 318744 0 0
+-
+83.0.153.57
+0 62 61 1889897 1 1518012073
+/masaz-boa/
+80.85.230.65
+0 42 40 322959 1 1517738514
+/staff/dr-anna-budzynska/
+125.209.103.21
+0 2 2 3537 0 0
+-
+66.249.81.178
+0 24 23 892950 1 1517777985
+/kontakt/
+163.172.65.29
+0 160 160 1503085 0 0
+-
+125.209.103.241
+0 2 2 3537 0 0
+-
+5.101.122.20
+0 3 0 8988 0 0
+-
+74.115.214.133
+0 1 1 338 1 1517913908
+/
+191.96.249.40
+0 2 2 104682 2 1517976323
+/
+181.198.216.220
+0 2 2 3537 0 0
+-
+145.239.88.118
+0 1 1 52334 1 1517945800
+/
+45.40.121.14
+0 2 1 10581 1 1517564781
+-
+199.30.25.144
+0 2 2 33090 0 0
+-
+65.55.210.56
+0 4 4 201689 0 0
+-
+60.242.2.155
+0 1 1 8757 1 1517564768
+/post-21/
+83.218.108.115
+0 32 32 984798 1 1517532211
+/
+37.47.14.64
+0 40 38 313954 1 1517507070
+/staff/dr-anna-bochynska/
+83.7.18.98
+0 59 57 1544342 1 1517764575
+/o-nas/
+51.255.71.119
+0 1 1 14154 1 1517815832
+/
+103.254.185.231
+0 2 2 3537 0 0
+-
+46.134.3.216
+0 39 39 314884 1 1517902690
+/kontakt/
+37.47.125.171
+0 34 34 1013504 1 1517778309
+/
+217.69.143.67
+0 1 1 385 0 0
+-
+37.248.160.230
+0 7 4 2584 0 0
+-
+83.22.163.16
+0 47 47 1109675 1 1517498368
+/kontakt/
+5.228.30.171
+0 1 1 9002 1 1517564787
+/ginekologia-seksuologia/
+177.37.135.142
+0 12 0 176723 2 1517514559
+-
+94.254.153.234
+0 55 53 1643811 1 1517514764
+-
+125.209.103.69
+0 2 2 3537 0 0
+-
+37.248.167.56
+0 57 54 1117240 1 1517998639
+/
+207.46.13.146
+0 1 1 14197 1 1517460024
+/
+37.248.166.102
+0 48 44 335847 1 1517909972
+/kontakt/
+45.55.149.201
+0 41 40 729685 1 1517657182
+/post/
+83.27.233.155
+0 12 8 35533 1 1517784168
+/
+138.197.111.53
+0 22 22 204307 1 1517722644
+/
+199.30.24.100
+0 3 3 139534 0 0
+-
+78.11.204.70
+0 43 41 331874 2 1517699475
+/staff/piotr-budzynski/
+163.172.65.126
+0 128 128 1202468 0 0
+-
+195.26.22.179
+0 1 1 567314 0 0
+-
+199.30.25.33
+0 1 1 29114 0 0
+-
+5.9.145.132
+0 1 1 31870 1 1517712399
+/staff/dr-marta-banach/
+66.249.79.83
+0 3 2 3641 0 0
+-
+83.27.40.135
+0 41 39 314223 1 1517927248
+/staff/piotr-budzynski/
+66.249.66.85
+0 17 14 59236 3 1517590242
+/
+188.146.168.250
+0 175 118 2683455 2 1517609319
+/neurologia-emg/
+66.249.64.81
+0 5 5 25579 1 1517964479
+/
+163.172.65.107
+0 64 64 601234 0 0
+-
+164.132.161.96
+0 1 1 72190 0 0
+-
+5.101.140.66
+0 28 27 35269 0 0
+-
+176.11.163.237
+0 56 53 1112470 1 1517586630
+/
+5.101.191.21
+0 1 0 482 0 0
+-
+51.255.65.94
+0 1 1 14153 1 1517583671
+/
+37.47.119.151
+0 52 50 1123877 1 1517705751
+/
+31.0.122.5
+0 53 43 1121553 1 1517844624
+/post/
+185.192.243.218
+0 86 86 2189198 2 1518021825
+/
+14.202.250.89
+0 2 1 14449 1 1517559949
+/
+128.199.157.152
+0 1 0 29067 0 0
+-
+83.14.4.189
+0 88 88 2189976 2 1517840386
+/
+83.28.228.121
+0 37 37 318490 1 1517588021
+/kontakt/
+83.10.163.63
+0 33 33 294200 1 1517572032
+/staff/dr-anna-budzynska/
+66.249.69.81
+0 35 33 217625 6 1517960369
+/
+38.21.50.40
+0 2 2 19222 1 1517564800
+/medycyna-estetyczna-i-regeneracyjna/
+94.254.153.253
+0 5 3 10570 1 1517949329
+/nasi-spacjalisci/
+213.77.57.110
+0 52 52 1465704 1 1518020864
+/rehabilitacja-fizjoterapia/
+5.101.191.19
+0 1 0 7964 0 0
+-
+94.254.144.52
+0 52 49 1115363 1 1517564822
+-
+24.127.162.216
+0 1 0 7920 0 0
+-
+94.254.146.15
+0 57 54 1117240 1 1517999799
+/
+80.49.154.134
+0 25 23 4212731 1 1517779140
+/medycyna-estetyczna-i-regeneracyjna/
+108.179.200.141
+0 1 0 15657 1 1517876607
+-
+162.208.50.87
+0 2 2 739710 0 0
+-
+195.150.192.250
+0 61 61 1183658 1 1518005014
+/staff/dr-marek-worek/
+87.99.120.206
+0 43 42 1086133 1 1517995445
+-
+78.9.135.124
+0 1 1 12799 0 0
+-
+40.77.167.79
+0 1 1 14198 1 1517933372
+/
+41.41.82.176
+0 2 2 3537 0 0
+-
+66.102.9.50
+0 15 15 222198 0 0
+-
+213.77.57.143
+0 74 65 1159637 1 1518023663
+/o-nas/
+159.205.30.53
+0 32 32 984799 1 1518018985
+/
+164.132.161.52
+0 1 1 14154 1 1517714607
+/
+83.10.180.86
+0 52 49 1115364 1 1517816946
+/
+157.55.39.65
+0 8 6 51721 4 1518032408
+-
+83.7.159.141
+0 63 61 1982302 1 1517919690
+/staff/piotr-budzynski/
+77.252.97.92
+0 32 32 984798 1 1517472849
+/
+188.146.102.113
+0 150 102 1589400 1 1517732335
+/aktualnosci/
+77.75.79.109
+0 2 2 9414 1 1517640504
+/staff/dr-marta-banach/
+188.146.35.201
+0 64 63 1858739 1 1517761945
+/rehabilitacja-fizjoterapia/
+185.187.55.65
+0 34 34 301978 1 1517509154
+/staff/dr-marek-worek/
+35.194.1.1
+0 2 2 11111 1 1518030356
+/kontakt/
+204.79.180.15
+0 1 1 14198 1 1517833542
+/
+79.191.49.101
+0 43 43 1094572 1 1517922448
+/
+83.218.103.54
+0 32 32 984799 1 1517781454
+/
+65.55.210.98
+0 1 1 25029 0 0
+-
+79.191.72.185
+0 34 34 302604 1 1517987917
+/staff/dr-anna-budzynska/
+109.61.14.78
+0 1 1 52378 1 1517896998
+/
+80.49.167.212
+0 124 113 3118529 3 1517595430
+/
+46.183.216.213
+0 36 8 382454 4 1517954181
+-
+74.220.219.145
+0 1 0 29033 0 0
+-
+220.225.7.45
+0 2 2 3537 0 0
+-
+45.40.121.17
+0 1 1 14197 1 1517564760
+/
+217.117.128.139
+0 33 33 293526 1 1517477921
+/staff/dr-marek-worek/
+69.171.208.24
+0 2 1 8777 1 1517564785
+/neurologia-emg/
+162.210.196.100
+0 2 2 52757 1 1517594898
+/
+80.49.158.121
+0 490 434 8465422 1 1517600084
+/wp-admin/
+198.144.157.54
+0 2 0 29499 1 1517446139
+-
+217.182.132.146
+0 1 1 8775 1 1517593603
+/staff/piotr-budzynski/
+217.182.132.96
+0 1 1 868 1 1517555395
+/comments/feed/
+83.5.222.131
+0 161 109 1411282 1 1517778511
+/
+83.218.105.15
+0 203 195 5311727 6 1518013963
+/ginekologia-seksuologia/
+154.16.225.154
+0 1 1 8589 1 1517564784
+/kinesiotaping/
+66.249.66.86
+0 15 14 132932 5 1517574886
+/
+199.30.24.188
+0 1 1 122474 0 0
+-
+185.12.21.29
+0 84 79 1968545 1 1517487973
+/
+94.254.150.57
+0 57 48 1220195 1 1518027538
+/
+46.183.217.34
+0 1 1 1650 0 0
+-
+83.26.234.117
+0 98 96 2244619 3 1517847763
+/
+162.210.196.97
+0 2 2 52802 1 1517931554
+/
+31.0.45.200
+0 156 131 2623202 2 1517952483
+/kontakt/
+94.254.146.56
+0 50 50 1264399 1 1517591681
+/post/
+66.102.9.52
+0 14 14 85137 1 1517941232
+/
+52.27.2.86
+0 1 1 38884 1 1518030303
+/kontakt/
+114.4.128.108
+0 1 0 28281 0 0
+-
+46.229.168.69
+0 4 4 34756 2 1517969459
+/category/uncategorized/
+77.75.76.165
+0 2 2 10524 1 1517844276
+/o-nas/
+199.30.25.53
+0 1 1 10437 0 0
+-
+188.225.17.82
+0 1 0 449 0 0
+-
+37.47.116.177
+0 32 32 984799 1 1517830297
+/
+157.55.39.104
+0 8 8 49285 1 1517800221
+/
+46.229.168.79
+0 2 2 21201 1 1517531011
+/laserfotona/
+94.254.144.54
+0 75 64 1449861 1 1517834494
+/kontakt/
+109.75.172.166
+0 2 0 58073 0 0
+-
+40.77.167.36
+0 2 2 4488 2 1517925644
+/
+167.114.46.248
+0 1 0 29040 0 0
+-
+94.254.144.90
+0 61 56 1127280 1 1517852650
+/staff/piotr-budzynski/
+183.88.227.20
+0 2 2 3537 0 0
+-
+80.82.67.214
+0 141 141 113873 0 0
+-
+83.22.158.218
+0 43 41 326011 1 1517911437
+/kontakt/
+176.122.214.78
+0 102 80 1228126 1 1517778252
+/kontakt/
+207.46.13.116
+0 8 5 59839 3 1518047065
+-
+77.45.42.89
+0 109 102 2060485 1 1517857075
+/aktualnosci/
+89.73.175.217
+0 53 50 1531443 1 1517513144
+/o-nas/
+13.56.229.65
+0 6 3 43349 3 1517945968
+/
+199.30.24.152
+0 1 1 29114 0 0
+-
+51.255.71.131
+0 1 1 8400 1 1517660742
+/nasi-spacjalisci/
+46.229.168.80
+0 2 2 19306 2 1517969407
+/staff/dr-anna-budzynska/
+83.22.254.20
+0 92 89 2610944 1 1517900008
+/
+188.213.175.168
+0 1 1 258 1 1517912302
+/wp-content/plugins/
+54.208.102.37
+0 2 2 14466 1 1517657907
+/
+164.132.161.44
+0 1 1 14154 1 1517795825
+/
+65.55.210.83
+0 1 1 665 0 0
+-
+181.214.36.77
+0 1 1 14198 1 1517915948
+/
+69.64.37.219
+0 1 0 28281 0 0
+-
+89.77.48.115
+0 1 1 12799 0 0
+-
+185.203.252.132
+0 35 35 302872 1 1517827278
+/staff/dr-anna-budzynska/
+188.146.44.68
+0 37 36 685200 1 1518007994
+/staff/dr-anna-budzynska/
+199.30.25.67
+0 1 1 37091 0 0
+-
+40.77.179.223
+0 12 12 160742 0 0
+-
+163.172.255.139
+0 6 0 116788 2 1517629687
+-
+188.146.103.124
+0 74 70 1762309 1 1518041786
+/
+109.236.8.10
+0 3 2 28736 1 1517964534
+/
+31.0.127.183
+0 50 48 1522676 1 1517745131
+/o-nas/
+184.168.200.228
+0 1 0 455 1 1517874801
+/wp-admin/
+80.52.192.177
+0 56 55 1169180 1 1517908105
+/
+79.110.198.89
+0 66 63 1981922 1 1517486902
+/rehabilitacja-fizjoterapia/
+184.168.152.135
+0 1 0 29047 1 1517877192
+-
+83.4.141.160
+0 69 59 1154002 1 1517490423
+/
+31.0.125.161
+0 28 19 1069247 1 1517606675
+/
+94.254.157.37
+0 56 53 1112471 1 1517925636
+/
+38.21.51.161
+0 4 4 35851 1 1517564803
+/staff/dr-marek-worek/
+62.210.129.246
+0 2 1 40844 1 1518031062
+/kontakt/
+83.7.170.12
+0 47 41 319778 1 1517938724
+/
+45.55.253.28
+0 38 29 265970 1 1517826033
+/medycyna-estetyczna-i-regeneracyjna/
+107.178.194.50
+0 1 1 10717 1 1518030135
+/kontakt/
+54.213.19.142
+0 2 1 14538 1 1517788508
+/
+199.30.24.23
+0 1 1 49085 0 0
+-
+157.55.39.15
+0 1 1 468 0 0
+-
+46.229.168.73
+0 3 3 27568 1 1517969414
+/staff/dr-marek-worek/
+146.185.223.245
+0 6 3 186776 1 1518038193
+/
+197.161.241.148
+0 1 1 14161 1 1517628173
+/
+80.49.159.1
+0 431 169 3331638 2 1517602914
+/kontakt/
+204.79.180.21
+0 1 1 10717 1 1517815291
+/kontakt/
+52.86.69.30
+0 28 27 191398 1 1517527791
+/staff/dr-anna-budzynska/
+45.72.26.99
+0 2 2 52751 1 1517533587
+/
+94.254.149.15
+0 30 13 78741 2 1518004358
+/kontakt/
+94.254.146.126
+0 32 32 984825 1 1517497550
+/
+46.229.164.102
+0 1 1 431 0 0
+-
+194.242.62.93
+0 36 35 249218 1 1517839818
+/kontakt/
+54.36.148.132
+0 1 1 14154 1 1517649952
+/
+46.215.116.243
+0 88 86 1673391 1 1517957618
+/staff/dr-marta-banach/
+54.36.148.114
+0 1 1 8429 1 1517629130
+/tlumaczenia/
+51.255.65.13
+0 1 1 14154 1 1517629576
+/
+157.55.39.25
+0 2 2 936 0 0
+-
+50.87.144.23
+0 1 1 52378 1 1518034709
+/
+122.54.247.35
+0 1 0 29084 1 1517840319
+/
+66.249.69.96
+0 2 0 680 2 1517960368
+/
+66.249.79.85
+0 3 1 3322 0 0
+-
+138.197.111.191
+0 41 40 729684 1 1517958405
+/post/
+181.215.81.12
+0 1 1 8062 1 1517564803
+/staff/
+87.113.243.247
+0 2 1 40881 1 1518031063
+/kontakt/
+83.26.238.85
+0 53 53 1150088 1 1517911126
+/nasi-spacjalisci/
+217.182.132.59
+0 1 1 14154 1 1517736420
+/
+83.27.216.37
+0 33 33 294200 1 1517579251
+/staff/dr-anna-budzynska/
+164.132.161.48
+0 1 1 1903 1 1517454553
+/category/blog/feed/
+37.47.109.123
+0 47 47 1120196 2 1517844788
+/urologia-nietrzymanie-moczu/
+199.30.24.98
+0 1 1 36005 0 0
+-
+217.182.132.190
+0 1 1 52627 0 0
+-
+38.21.49.204
+0 1 1 9032 1 1517564764
+/alter-g/
+83.24.117.213
+0 33 33 293922 1 1518019911
+/staff/dr-anna-bochynska/
+89.69.122.115
+0 1 1 218889 0 0
+-
+84.219.196.41
+0 1 1 8580 1 1517564802
+/category/image-posts/
+37.252.14.101
+0 1 1 14198 1 1517958172
+/
+51.255.65.17
+0 1 1 14153 1 1517538677
+/
+54.36.148.139
+0 1 1 14153 1 1517486543
+/
+168.151.145.84
+0 1 1 10055 1 1517564764
+/o-nas/
+193.70.34.209
+0 1 0 7963 0 0
+-
+164.132.161.20
+0 1 1 8408 1 1517562521
+/staff/dr-marek-worek/
+192.99.55.164
+0 3 3 28857 1 1517659630
+/
+78.8.81.102
+0 1 1 12799 0 0
+-
+188.146.225.177
+0 52 49 1518448 1 1517485456
+/kontakt/
+37.248.157.31
+0 1 1 33700 0 0
+-
+46.229.168.65
+0 1 1 10195 1 1517530844
+/kontakt/
+213.184.28.40
+0 1 0 29033 0 0
+-
+40.77.167.124
+0 30 30 89770 0 0
+-
+66.249.69.79
+0 8 4 35745 2 1517701756
+/
+65.55.210.89
+0 2 2 109360 0 0
+-
+159.89.177.14
+0 2 1 52555 1 1517638829
+/
+87.242.64.226
+0 3 2 53443 1 1518010416
+/
+37.47.119.7
+0 49 43 615983 1 1517830423
+/rehabilitacja-fizjoterapia/
+157.55.39.243
+0 2 1 10202 2 1517851490
+-
+74.115.214.156
+0 1 1 338 1 1517483947
+/
+188.146.99.144
+0 3 1 1171 0 0
+-
+65.55.210.163
+0 1 1 5357 0 0
+-
+115.84.92.180
+0 2 2 3663 0 0
+-
+217.69.143.70
+0 2 1 14463 1 1517531250
+/
+188.146.193.234
+0 32 32 984799 1 1517912246
+/
+54.183.130.127
+0 2 2 4010 2 1517803392
+/
+37.47.162.78
+0 1 1 567314 0 0
+-
+94.254.153.222
+0 41 39 314244 1 1517913189
+/staff/piotr-budzynski/
+195.116.158.205
+0 41 39 313880 1 1517858407
+/staff/dr-marek-worek/
+83.27.40.174
+0 103 79 1203064 1 1517958138
+/staff/dr-anna-bochynska/
+66.249.93.80
+0 1 1 14198 1 1517941231
+/
+66.249.69.126
+0 4 2 1589 2 1517783624
+/
+52.200.221.20
+0 1 1 38884 1 1518030357
+/kontakt/
+95.128.42.71
+0 1 1 3810 0 0
+-
+173.234.194.228
+0 1 1 14153 1 1517564761
+/
+46.229.168.67
+0 3 3 26862 1 1517969364
+/o-nas/
+94.254.159.238
+0 7 1 2896 0 0
+-
+5.172.236.220
+0 54 35 1123260 1 1517523293
+/rehabilitacja-fizjoterapia/
+103.1.93.107
+0 2 2 3537 0 0
+-
+94.42.170.244
+0 1 1 438107 0 0
+-
+80.48.223.105
+0 49 43 615956 1 1517650777
+/rehabilitacja-fizjoterapia/
+40.77.167.31
+0 1 1 14198 1 1517861438
+/
+77.75.76.166
+0 2 2 8990 1 1517546375
+/post/
+193.252.56.169
+0 2 2 3537 0 0
+-
+93.125.99.79
+0 1 0 29040 0 0
+-
+89.46.105.156
+0 3 2 53443 1 1518038435
+/
+163.172.66.18
+0 64 64 583723 1 1517777141
+/
+209.212.145.197
+0 2 2 7620 0 0
+-
+66.249.81.176
+0 20 20 123485 1 1517777976
+/
+173.239.220.2
+0 2 1 40888 1 1518031063
+/kontakt/
+204.79.180.1
+0 1 1 8473 1 1517838319
+/tlumaczenia/
+212.83.165.202
+0 1 0 29067 0 0
+-
+108.178.38.218
+0 1 1 232 0 0
+-
+51.255.65.58
+0 1 1 346791 0 0
+-
+31.0.65.254
+0 81 69 1631409 1 1517909530
+/medycyna-estetyczna-i-regeneracyjna/
+66.249.64.83
+0 5 5 41307 2 1518026137
+/
+94.254.154.170
+0 54 53 1177904 2 1518007784
+/neurologia-emg/
+207.46.13.201
+0 3 1 5710 0 0
+-
+103.67.235.72
+0 1 0 29033 0 0
+-
+83.22.248.72
+0 96 95 2610523 2 1517850645
+/staff/piotr-budzynski/
+51.4.207.124
+0 63 5 46835 1 1517838726
+-
+164.132.161.24
+0 2 2 24827 2 1517944163
+/kontakt/
+91.200.12.53
+0 2 1 14580 1 1517637399
+/
+78.11.89.194
+0 89 86 2062467 2 1518019850
+/
+208.94.226.221
+0 1 1 52378 1 1518031454
+/
+83.7.188.179
+0 208 164 2844574 1 1517834502
+/staff/piotr-budzynski/
+65.55.210.195
+0 1 1 29114 0 0
+-
+46.229.168.72
+0 4 4 35078 2 1517969315
+/staff/dr-marta-banach/
+157.55.39.53
+0 2 0 5242 0 0
+-
+188.146.232.178
+0 61 56 1127199 1 1517856937
+/staff/piotr-budzynski/
+164.132.161.12
+0 1 1 14153 1 1517512621
+/
+185.192.243.248
+0 57 54 1117240 1 1517989130
+/
+5.172.234.173
+0 81 69 1288837 1 1518033379
+/
+37.248.161.209
+0 49 45 351076 1 1517642560
+/kontakt/
+217.69.133.226
+0 2 2 8799 1 1517864956
+/staff/dr-marek-worek/
+188.163.76.13
+0 63 61 262349 1 1517602533
+-
+188.146.108.34
+0 41 39 314277 1 1517861993
+/staff/dr-anna-bochynska/
+103.82.221.19
+0 15 4 84702 1 1517638696
+/
+94.254.150.139
+0 70 61 1429395 1 1517951760
+/rehabilitacja-fizjoterapia/
+188.165.192.220
+0 1 1 14198 1 1517638660
+/
+129.78.110.124
+0 1 1 14161 1 1517952348
+/
+190.210.182.93
+0 5 1 94303 1 1517840231
+/
+146.185.223.221
+0 5 1 25713 3 1517931461
+-
+108.59.8.70
+0 2 2 52764 1 1518033246
+/
+89.174.249.100
+0 36 36 309882 1 1517835084
+/kontakt/
+157.55.39.27
+0 2 0 5242 0 0
+-
+157.55.39.149
+0 4 4 26755 1 1517700888
+/staff/dr-anna-budzynska/
+46.165.236.109
+0 2 0 29497 0 0
+-
+185.106.122.254
+0 1 0 7964 0 0
+-
+172.245.152.154
+0 1 1 8625 1 1517564779
+/laserfotona/
+94.254.147.118
+0 60 53 1151712 1 1517571570
+-
+54.37.1.236
+0 1618 1609 6346297 1 1517596307
+-
+83.4.170.192
+0 43 43 1094598 1 1517511291
+/
+65.55.210.202
+0 1 1 313771 0 0
+-
+83.7.180.202
+0 133 100 1559566 1 1518048757
+/staff/piotr-budzynski/
+195.154.187.58
+0 3 0 16262 0 0
+-
+83.26.247.123
+0 37 37 309540 1 1517549034
+/kontakt/
+54.36.149.20
+0 1 0 296 1 1517913910
+/
+125.209.103.74
+0 2 2 3537 0 0
+-
+89.78.6.98
+0 4 2 105272 1 1517444729
+/
+83.10.207.46
+0 79 67 1163925 1 1517759041
+/
+80.110.111.128
+0 83 72 467693 1 1518005423
+/staff/dr-marta-banach/
+202.137.155.222
+0 2 2 3663 0 0
+-
+217.69.143.68
+0 1 1 385 0 0
+-
+115.84.92.157
+0 2 2 3663 0 0
+-
+46.229.168.76
+0 2 2 17012 1 1517969383
+/nasi-spacjalisci/
+50.87.144.177
+0 1 0 440 0 0
+-
+107.175.216.133
+0 1 1 12650 1 1517564797
+/rehabilitacja-fizjoterapia/
+94.254.146.8
+0 42 42 1094303 1 1517496011
+/
+194.208.102.51
+0 1 0 29033 0 0
+-
+91.227.216.162
+0 59 54 1126987 1 1518038982
+/
+83.68.87.219
+0 33 33 293922 1 1517902227
+/staff/dr-anna-bochynska/
+51.255.65.23
+0 1 0 7914 1 1517518295
+-
+85.93.91.84
+0 7 7 132209 4 1517988700
+/o-nas/
+163.172.66.57
+0 96 96 901851 0 0
+-
+89.75.97.14
+0 141 93 1655833 1 1517511997
+/aktualnosci/
+170.130.62.233
+0 1 1 8399 1 1517564786
+/nasi-spacjalisci/
+193.242.212.35
+0 66 58 1142795 1 1517486353
+/
+40.77.167.54
+0 11 9 80435 1 1517648242
+-
+38.100.21.63
+0 1 0 340 1 1517676374
+/
+31.0.26.245
+0 76 76 1433360 1 1517586763
+/staff/dr-anna-budzynska/
+50.19.154.226
+0 1 1 38884 1 1518033299
+/kontakt/
+54.36.150.162
+0 2 2 848 0 0
+-
+77.75.78.168
+0 2 2 8733 1 1517647645
+/urologia-nietrzymanie-moczu/
+82.192.92.55
+0 2 2 53103 1 1518006112
+/
+207.46.13.150
+0 8 8 87851 4 1518028115
+/
+95.84.232.206
+0 11 11 533359 1 1517464145
+/poczta/
+40.77.167.82
+0 1 1 2244 1 1517448669
+/
+66.249.66.87
+0 4 4 29010 2 1517597142
+/rehabilitacja-fizjoterapia/
+2.67.53.219
+0 55 54 1555405 1 1517580521
+/nasi-spacjalisci/
+178.43.82.178
+0 66 52 1378901 2 1517576175
+/kontakt/
+66.102.9.48
+0 16 16 821025 1 1518015679
+/
+164.132.161.83
+0 1 1 14154 1 1517692345
+/
+74.6.53.168
+0 1 0 29040 1 1517875418
+-
+94.254.149.134
+0 41 39 313880 1 1518019573
+/staff/dr-marek-worek/
+199.30.24.118
+0 1 1 112356 0 0
+-
+77.75.78.163
+0 2 1 8426 1 1517928495
+-
+188.146.38.242
+0 30 29 274228 1 1518041628
+/kontakt/
+64.246.161.30
+0 3 2 14849 1 1517950132
+/
+66.220.146.229
+0 1 1 13858 0 0
+-
+46.174.114.209
+0 4 2 24083 1 1518032238
+/
+65.55.210.31
+0 1 1 1972 0 0
+-
+5.172.233.88
+0 42 42 1094249 1 1517488440
+/
+46.215.213.61
+0 57 54 1126750 1 1517814002
+/
+82.80.249.243
+0 2 1 14538 1 1517765934
+/
+94.254.151.79
+0 78 64 1454704 1 1517940503
+/
+95.108.181.81
+0 16 12 56039 6 1517958325
+/
+188.116.8.18
+0 171 171 44118 0 0
+-
+81.120.65.55
+0 1 0 29077 1 1517958224
+-
+40.77.167.56
+0 4 4 35197 1 1517475017
+/aktualnosci/
+207.46.13.149
+0 7 4 63751 2 1518021799
+/kinesiotaping/
+107.167.108.62
+0 6 3 23008 1 1517509846
+/masaz-boa/
+157.55.39.241
+0 10 10 106550 1 1517828662
+/rehabilitacja-fizjoterapia/
+91.197.155.10
+0 35 35 303587 1 1517841933
+/staff/piotr-budzynski/
+37.47.117.26
+0 48 42 324374 1 1517488293
+/
+37.47.101.235
+0 77 67 1178733 1 1517756503
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+83.7.180.202
+0 133 100 1559566 1 1518048757
+/staff/piotr-budzynski/
+# End Of Table - sites (daily)
+# -referrers- 
+http://artmed.biz/staff/dr-marek-worek/
+0 632
+http://artmed.biz/administrator/components/com_jnews/includes/openflashchart/php-ofc-library/ofc_upload_image.php
+0 1
+http://artmed.biz/nasi-spacjalisci/
+0 303
+http://artmed.biz/poczta/
+0 10
+http://artmed.biz/wp-admin/load-styles.php
+0 4
+http://artmed.biz/admin
+0 1
+http://whois.domaintools.com/artmed.biz
+0 2
+http://www.artmed.biz/index.php
+0 1
+http://artmed.biz/wp-content/plugins/up.php
+0 1
+https://www.google.at/
+0 3
+http://www.google.pl/
+0 20
+http://artmed.biz/neurologia-emg/
+0 6
+http://proassist.sugester.pl/app/clients/10138052
+0 1
+http://artmed.biz/wp-admin/index.php
+0 4
+http://artmed.biz/admin/
+0 3
+http://itpestetyka.pl/gabinety/
+0 2
+http://artmed.biz/o-nas/
+0 166
+http://artmed.biz/administrator/components/com_maianmedia/utilities/charts/php-ofc-library/ofc_upload_image.php
+0 1
+http://artmed.biz/wp-admin/profile.php
+0 31
+http://artmed.biz/post/
+0 22
+http://artmed.biz/comments/feed/
+0 1
+http://artmed.biz/wp-content/plugins/wp-google-maps/css/data_table.css
+0 18
+http://artmed.biz/masaz-boa/
+0 7
+http://artmed.biz/administrator/components/com_maian15/charts/php-ofc-library/ofc_upload_image.php
+0 1
+http://www.google.com/search
+0 1
+http://artmed.biz/laserowa-chirurgia-naczyniowa/
+0 11
+http://artmed.biz/components/com_civicrm/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php
+0 1
+http://artmed.biz/wp-content/themes/artmed/framework/rc/assets/css/vendor/jquery-ui-bootstrap/jquery-ui-1.10.0.custom.css
+0 1
+http://artmed.biz/staff/piotr-budzynski/
+0 522
+http://artmed.biz/aktualnosci/
+0 127
+http://artmed.biz/wp-admin/
+0 18
+http://artmed.biz/wp-content/plugins/wp-google-maps/css/font-awesome.min.css
+0 9
+android-app://com.google.android.googlequicksearchbox
+0 6
+http://uptime-eu.net/artmed.biz
+0 2
+http://artmed.biz/wp-content/themes/reganto-theme/style.css
+0 1
+http://artmed.biz/wp-content/plugins/mm-forms-community/includes/doajaxfileupload.php
+0 1
+http://artmed.biz/login
+0 1
+http://artmed.biz/alter-g/
+0 6
+http://artmed.biz/components/com_maianmedia/utilities/charts/php-ofc-library/ofc_upload_image.php
+0 1
+http://artmed.biz/wp-content/themes/artmed/css/main.css
+0 64
+http://artmed.biz/ginekologia-seksuologia/
+0 66
+http://artmed.biz/staff/dr-anna-budzynska/
+0 229
+http://artmed.biz/wp-admin/admin.php
+0 344
+http://artmed.biz/wp-content/plugins/woopra/inc/php-ofc-library/ofc_upload_image.php
+0 1
+http://www.artmed.biz/wp-content/plugins/up.php
+0 2
+http://artmed.biz/wp-content/themes/artmed/css/font-awesome.css
+0 128
+http://www.zumi.pl/2705137,Zaklad_Rehabilitacji_Leczniczej_Artmed._Poradnia_rehabilitacyjna__rehabilitacja,Nowy_Sacz,firma.html
+0 3
+artmed.biz
+0 2
+http://www.google.pl/search
+0 1
+http://www.artmed.biz/wp-content/wp-caches.php
+0 2
+http://artmed.biz/rejestracja
+0 1
+https://www.google.com/
+0 3
+- (Direct Request)
+0 1874
+http://188.116.8.18/~artmed/
+0 30
+http://artmed.biz/kontakt
+0 2
+http://artmed.biz/wp-login.php
+0 1703
+https://www.google.com.tr/
+0 1
+http://artmed.biz/wp-admin/update-core.php
+0 9
+https://www.google.se/
+0 1
+http://artmed.biz/staff/dr-anna-bochynska/
+0 193
+http://artmed.biz/kontakt/
+0 457
+https://artmed.biz/kontakt/
+0 4
+http://artmed.biz/staff/dr-marta-banach/
+0 144
+http://artmed.biz/wp-admin/post.php
+0 140
+http://www.artmed.biz/rejestracja
+0 1
+http://site.ru
+0 12
+http://artmed.biz/tlumaczenia/
+0 40
+http://artmed.biz/wp-admin/edit.php
+0 26
+http://artmed.biz/wp-admin/plugins.php
+0 4
+http://artmed.biz/kinesiotaping/
+0 5
+https://www.bing.com/
+0 4
+http://artmed.biz/wp-cron.php
+0 171
+https://www.google.cz/
+0 1
+http://artmed.biz/urologia-nietrzymanie-moczu/
+0 6
+http://artmed.biz/components/com_jnews/includes/openflashchart/php-ofc-library/ofc_upload_image.php
+0 1
+http://artmed.biz:2222/CMD_SHOW_DOMAIN
+0 10
+http://artmed.biz/wp-content/plugins/cws-pb/cws-pb.css
+0 1
+http://artmed.biz/webmail/rainloop/v/1.9.4.402/static/css/app.min.css
+0 1
+http://artmed.biz/components/com_jnewsletter/includes/openflashchart/php-ofc-library/ofc_upload_image.php
+0 1
+http://artmed.biz/wp-content/themes/artmed/framework/rc/assets/css/redux.css
+0 2
+http://artmed.biz/administrator/components/com_jnewsletter/includes/openflashchart/php-ofc-library/ofc_upload_image.php
+0 1
+http://artmed.biz/wp-content/wp-caches.php
+0 1
+http://artmed.biz/wp-admin/update.php
+0 2
+http://artmed.biz/components/com_maian15/charts/php-ofc-library/ofc_upload_image.php
+0 1
+http://artmed.biz/wp-admin/options-permalink.php
+0 4
+http://artmed.biz/wp-admin/plugin-install.php
+0 16
+http://www.google.pl/url
+0 3
+http://artmed.biz/wp-content/plugins/revslider/public/assets/css/settings.css
+0 172
+http://artmed.biz:2222/CMD_FILE_MANAGER
+0 2
+http://artmed.biz/phpmyadmin/phpmyadmin.css.php
+0 6
+http://artmed.biz/wp-content/themes/artmed/core/css/mb-post-styles.css
+0 1
+http://artmed.biz/medycyna-estetyczna-i-regeneracyjna/
+0 78
+https://www.google.pl/
+0 160
+http://artmed.biz/wp-content/plugins/wp-google-maps/css/wpgmza_style.css
+0 9
+http://artmed.biz/administrator/components/com_acymailing/inc/openflash/php-ofc-library/ofc_upload_image.php
+0 1
+http://artmed.biz/wp-content/themes/artmed/framework/rc/assets/css/vendor/elusive-icons/elusive-webfont.css
+0 1
+http://artmed.biz/components/com_acymailing/inc/openflash/php-ofc-library/ofc_upload_image.php
+0 1
+http://artmed.biz/favicon.ico
+0 1
+http://artmed.biz/
+0 4972
+http://artmed.biz/ncust
+0 1
+http://artmed.biz/rehabilitacja-fizjoterapia/
+0 323
+http://artmed.biz/index.php
+0 5
+http://artmed.biz/administrator/components/com_civicrm/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php
+0 1
+http://uptime-as.net/artmed.biz
+0 1
+https://duckduckgo.com/
+0 1
+http://www.artmed.biz/
+0 6
+https://pl.search.yahoo.com/
+0 1
+http://artmed.biz/roundcube/
+0 7
+https://www.google.no/
+0 1
+http://artmed.biz/gabinety/
+0 130
+http://artmed.biz/wp-content/plugins/wp-slimstat-ex/lib/ofc/php-ofc-library/ofc_upload_image.php
+0 1
+http://artmed.biz/webmail/
+0 13
+http://artmed.biz/wp-content/themes/rayoflight-butiala-theme/css/style.css
+0 1
+http://artmed.biz
+0 43
+http://artmed.biz/wp-content/plugins/contact-form-7/includes/css/styles.css
+0 89
+http://yandex.ru/clck/jsredir
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/Robots/2.0; +http://go.mail.ru/help/robots)
+0 4
+Mozilla/5.0 (Linux; Android 6.0.1; Redmi 4X Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile 
+0 41
+Mozilla/5.0 (Windows NT 6.1; rv:49.0) Gecko/20100101 Firefox/49.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 86
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_2) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.41 Safari/535.1
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:50.0) Gecko/20100101 Firefox/50.0
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+0 2
+Mozilla/5.1 (Windows NT 6.0; WOW64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/58.0.1145.75 Safari/537.37
+0 2
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.75 Safari/535.7
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; SM-N910C Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.123 Mobile 
+0 3
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+0 1
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36
+0 6
+Mozilla/5.0 (Linux; Android 6.0.1; Lenovo K53a48 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mo
+0 148
+Mozilla/5.0 (Linux; Android 4.4.2; LG-D722 Build/KOT49I.A1422964302) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.
+0 41
+Mozilla/5.0 (Windows NT 6.1; rv:39.0) Gecko/20100101 Firefox/39.0
+0 2
+wp-windowsphone
+0 1
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+0 37
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.91 Chromium/12.0.742.91 Safari/534.30
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Ubuntu/10.10 Chromium/12.0.703.0 Chrome/12.0.703.0 Saf
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:57.0) Gecko/20100101 Firefox/57.0
+0 1
+Mozilla/5.0 (compatible; DuckDuckGo-Favicons-Bot/1.0; +http://duckduckgo.com)
+0 2
+Mozilla/5.0 (Windows NT 6.1; rv:33.0) Gecko/20100101 Firefox/33.0
+0 2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.17 (KHTML, like Gecko) Chrome/11.0.654.0 Safari/534.17
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; SM-A510F Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile S
+0 150
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview) Chrome/41.0.2272.118 Safari/537.36
+0 42
+Mozilla/5.0 (Windows NT 5.1; rv:52.0) Gecko/20100101 Firefox/52.0
+0 231
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:50.0) Gecko/20100101 Firefox/50.0
+0 12
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+0 33
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 86
+Mozilla/5.0 (Windows NT 5.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+0 2
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.21 (KHTML, like Gecko) Chrome/19.0.1042.0 Safari/535.21
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0
+0 16
+Mozilla/5.0 (Linux; Android 7.0; WAS-LX1 Build/HUAWEIWAS-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Mobi
+0 78
+Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.17
+0 53
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 44
+Mozilla/5.0 (Windows; U; Windows NT 5.1; pl; rv:1.9.1.5) Gecko/20091102 Firefox/3.5.5 (.NET CLR 3.5.30729)
+0 4
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_2 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A421 
+0 104
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; fr; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8
+0 169
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0
+0 2
+Java/1.6.0_04
+0 56
+python-requests/2.7.0 CPython/2.7.14 Windows/10
+0 4
+Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G950F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/6.2 Chr
+0 56
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.1
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:45.0) Gecko/20100101 Firefox/45.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:46.0) Gecko/20100101 Firefox/46.0
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_2 like Mac OS X) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0 Mobile/15C202 S
+0 359
+EDS EXIF/1.0 (https://www.exif-search.com)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.1.2 Safari/603.3.8
+0 43
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:48.0) Gecko/20100101 Firefox/48.0
+0 1
+Mozilla/5.0 (Linux; Android 6.0; LG-K350 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Safa
+0 57
+Mozilla/5.0 (X11; CrOS i686 12.0.742.91) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.93 Safari/534.30
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0;  Trident/5.0)
+0 3
+Windows Live Writer
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0
+0 6
+Mozilla/5.0 (Linux; Android 6.0; LG-K430 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Saf
+0 103
+Mozilla/5.0 (Linux; Android 4.4.2; GT-I9301I Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile
+0 34
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 771
+Mozilla/5.0 (Linux; Android 5.1.1; SM-J500FN Build/LMY48B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile
+0 156
+Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.220 Safari/535.1
+0 2
+Mozilla/5.0 (Linux; Android 7.0; XT1650 Build/NPL25.86-30) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile
+0 48
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 102
+Mozilla/5.0 (Linux; Android 5.0.1; ALE-L21 Build/HuaweiALE-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 M
+0 52
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2712.88 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; U; Android 4.0.4; pl-pl; GT-P7320 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari
+0 76
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 163
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.54 Safari/535.2
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36 OPR/36.0.2130.80
+0 98
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+0 3
+Mozilla/5.0 (Linux; Android 7.0; MHA-L09 Build/HUAWEIMHA-L09) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mob
+0 69
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 8
+Mozilla/5.0 (Linux; Android 7.0; F3111 Build/33.3.A.1.97) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile 
+0 83
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2645.7 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 5.1.1; Lenovo A6020a40 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.76 M
+0 61
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 5.1.1; SM-J320FN Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile
+0 83
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
+0 2
+Mozilla/5.0 (Windows NT 10.0; rv:58.0) Gecko/20100101 Firefox/58.0
+0 62
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.18 (KHTML, like Gecko) Chrome/11.0.661.0 Safari/534.18
+0 1
+Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-J530F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/6.2 Chr
+0 69
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.0 Safari/536.3
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.66 Safari/535.11
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:50.0) Gecko/20100101 Firefox/50.0
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 96
+Mozilla/5.0 (Linux; Android 7.1.1; ASUS_X00DD Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.123 Mobil
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2958.69 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0
+0 1
+Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/534.12.65 (KHTML, like Gecko) Version/4.7.2 Safari/533.20
+0 4
+Mozilla/5.0 (Linux; Android 6.0.1; D5803 Build/23.5.A.1.291) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobi
+0 60
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_4) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.65 Safari/535.11
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.89 Safari/537.36
+0 7
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+0 77
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_6) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.698.0 Safari/534.24
+0 1
+Mozilla/5.0 (compatible; DnyzBot/1.0) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/64.0.3264.0 Safari/537.36
+0 22
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 174
+Googlebot-Image/1.0
+0 26
+Mozilla/5.0 (Windows; U; Windows NT 6.1; de-DE) AppleWebKit/534.17 (KHTML, like Gecko) Chrome/10.0.649.0 Safari/534.17
+0 1
+Mozilla/5.0 (Linux; Android 7.0; 5047D Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.
+0 48
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+0 5
+Mozilla/5.0 (Linux; Android 6.0; LG-K350 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile Safa
+0 57
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safa
+0 2
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.220 Safari/535.1
+0 1
+Mozilla/5.0 (Linux; Android 7.1.1; SM-N950F Build/NMF26X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile 
+0 56
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 1
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.119 Safari/537.36
+0 34
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.638.0 Safari/534.16
+0 1
+Mozilla/5.0 (compatible; DnyzBot/1.0)
+0 80
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 65
+Mozilla/5.0 (compatible; SemrushBot/1.2~bl; +http://www.semrush.com/bot.html)
+0 34
+Mozilla/5.0 (Linux; Android 6.0.1; Lenovo K53a48 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mo
+0 53
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.80 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 127
+BUbiNG (+http://law.di.unimi.it/BUbiNG.html)
+0 28
+Mozilla/5.0 (Linux; Android 6.0; HUAWEI VNS-L21 Build/HUAWEIVNS-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.
+0 435
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 36
+Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-J500FN Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/5.4 
+0 115
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 429
+Mozilla/5.0 (Windows NT 6.0; rv:42.0) Gecko/20100101 Firefox/42.0
+0 1
+Mozilla/5.0 (X11; CrOS x86_64 10032.86.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.140 Safari/537.36
+0 109
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36
+0 24
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36
+0 23
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G531F Build/LMY48B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mobile S
+0 41
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; LCJB; rv:11.0) like Gecko
+0 1
+WordPress
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:37.1) Gecko/20100101 Firefox/37.1
+0 6
+Mozilla/5.0 (compatible; spbot/5.0.3; +http://OpenLinkProfiler.org/bot )
+0 38
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 61
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 190
+Mozilla/5.0 (Linux; Android 6.0.1; SM-A500FU Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile
+0 57
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_4 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13G35 Saf
+0 49
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 139
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; HTC_Desire_820 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/38.
+0 59
+Mozilla/5.0 (Linux; Android 7.0; SM-A510F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile Sa
+0 83
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38
+0 37
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 OPR/50.0.2
+0 79
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ja; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2
+0 2
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 2
+Mozilla/5.0 (Windows NT 6.2; rv:45.0) Gecko/20100101 Firefox/45.0
+0 2
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 42
+Mozilla/5.0 (Windows NT 6.1.7600; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0
+0 3
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+0 129
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1
+0 2
+Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+0 545
+Mozilla/5.0 (X11; Linux amd64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.24 Safari/535.1
+0 1
+Mozilla/5.0 (compatible; SEOkicks-Robot; +http://www.seokicks.de/robot.html)
+0 9
+redback/v0-570-g26f8c96
+0 3
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 OPR/50.0.2762.67
+0 43
+Mozilla/5.0 (Linux; Android 6.0; HUAWEI CRR-L09 Build/HUAWEICRR-L09) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.
+0 1
+Python-urllib/2.7
+0 4
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36
+0 42
+Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G955F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/6.2 Chr
+0 57
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.803.0 Safari/535.1
+0 2
+Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-J320F Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/6.2 C
+0 39
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+0 9
+Mozilla/5.0 (WordPress.com; https://en.support.wordpress.com/contact/)
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; LG-D320 Build/KOT49I.A1412097954) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.
+0 88
+Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US) AppEngine-Google; (+http://code.google.com/appengine; appid: s~viru
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:32.0) Gecko/20100101 Firefox/32.0
+0 2
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 OPR/50.0.2
+0 29
+Mozilla/5.0 (Linux; Android 7.0; HUAWEI VNS-L21 Build/HUAWEIVNS-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.
+0 41
+Mozilla/5.0 (iPad; CPU OS 11_2 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) CriOS/64.0.3282.112 Mobile/15C114 Safa
+0 49
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_2 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) GSA/41.0.178428663 Mobile/1
+0 52
+Mozilla/5.0 (compatible; Uptimebot/1.0; +http://www.uptime.com/uptimebot)
+0 3
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 OPR/36.0.2130.3
+0 36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:58.0) Gecko/20100101 Firefox/58.0
+0 34
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.2 (KHTML, like Gecko) Ubuntu/11.10 Chromium/15.0.874.120 Chrome/15.0.874.120 Sa
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.133 Safari/534.16
+0 1
+Mozilla/5.0 (Linux; Android 7.0; LG-H870 Build/NRD90U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Saf
+0 92
+Mozilla/5.0 (Linux; U; Android 6.0.1; en-us; Redmi 4A Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome
+0 74
+Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)
+0 10
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 51
+Mozilla/5.0 (Linux; Android 7.0; SM-G925F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Sa
+0 175
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 20
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Win64; x64; Trident/4.0)
+0 2
+Mozilla/5.0 (compatible; SeznamBot/3.2; +http://napoveda.seznam.cz/en/seznambot-intro/)
+0 16
+Mozilla/5.0 (Linux; Android 4.4.2; PSP3502DUO Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.105 Mobil
+0 12
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_6) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.112 Safari/534.30
+0 1
+Mozilla/5.0 (Linux; Android 7.1.1; SM-J510FN Build/NMF26X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile 
+0 47
+Mozilla/5.0 (compatible; DeuSu/5.0.2; +https://deusu.de/robot.html)
+0 7
+Mozilla/5.0 (Linux; Android 7.0; Redmi Note 4 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobil
+0 57
+Mozilla/5.0 (Linux; U; Android 6.0.1; en-us; MI 5 Build/MXB48T) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.
+0 100
+Mozilla/5.0 (Linux; Android 7.0; LG-M250 Build/NRD90U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile Saf
+0 79
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2633.31 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; ips-agent)
+0 17
+ltx71 - (http://ltx71.com/)
+0 2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.77 Safari/535.7ad-imcjapan-syosyaman-xkgi3
+0 2
+Mozilla/5.0 (X11; Linux x86_64; rv:51.0) Gecko/20100101 Firefox/51.0
+0 2
+Xenu Link Sleuth/1.3.8
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:29.0) Gecko/20100101 Firefox/29.0
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Sa
+0 1
+Mozilla/5.0 (Linux; Android 6.0; ALE-L21 Build/HuaweiALE-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mob
+0 61
+Mozilla/5.0 (Windows NT 6.0; rv:52.0) Gecko/20100101 Firefox/52.0
+0 43
+WordPress/4.7.9; http://artmed.biz
+0 171
+Mozilla/5.0 (Linux; Android 5.0.1; LG-H500 Build/LRX21Y) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/38.0.2125.
+0 66
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_1 like Mac OS X) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0 Mobile/15C153 S
+0 81
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.6 (KHTML, like Gecko) Chrome/16.0.897.0 Safari/535.6
+0 1
+=Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.204 Safari/534.16
+0 1
+Mozilla/5.0 (Linux; Android 6.0; ALE-L21 Build/HuaweiALE-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mob
+0 102
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_5 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0 Mobile/15D60 Sa
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.119 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6; en-US) AppleWebKit/534.20 (KHTML, like Gecko) Chrome/11.0.672.2 Safari/534.
+0 1
+Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/2.0; +http://go.mail.ru/help/robots)
+0 2
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/4.0; InfoPath.2; SV1; .NET CLR 2.0.50727; WOW64)
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.697.0 Safari/534.24
+0 1
+Mozilla/5.0 (Linux; Android 7.0; HUAWEI VNS-L21 Build/HUAWEIVNS-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.
+0 63
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.3; WOW64; Trident/4.0)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.22 (KHTML, like Gecko) Chrome/19.0.1047.0 Safari/535.22
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+0 149
+Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.134 Safari/534.16
+0 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.99 Safari/533.4
+0 12
+Mozilla/5.0 (X11; Linux i686 on x86_64; rv:48.0) Gecko/20100101 Firefox/48.0
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2915.46 Safari/537.36
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2966.17 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 627
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 6.1; rv:58.0) Gecko/20100101 Firefox/58.0
+0 50
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 63
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 63
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; Lenovo P2a42 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mob
+0 41
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.136
+0 2
+Mozilla/5.0 (Linux; Android 6.0; LG-K350 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.124 Mobile Saf
+0 49
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.811.0 Safari/535.1
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.119 Safari/537.36
+0 32
+Mozilla/5.0 (Linux; U; Android 2.2) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+0 1618
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.1
+0 143
+Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/534.15 (KHTML, like Gecko) Chrome/10.0.613.0 Safari/534.15
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2923.51 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)
+0 1
+Mozilla/5.0 (X11; CrOS i686 0.13.587) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.14 Safari/535.1
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36
+0 874
+Mozilla/5.0 (Linux; Android 4.2.1; en-us; Nexus 5 Build/JOP40D) AppleWebKit/535.19 (KHTML, like Gecko; googleweblight) Chrome
+0 2
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.66 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 5.1; Win64; x64; Trident/6.0)
+0 2
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 OPR/50.0.2762.6
+0 93
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safa
+0 2
+# End Of Table - agents
+# -search strings- 
+budzyński nowy sącz artmed
+1
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
